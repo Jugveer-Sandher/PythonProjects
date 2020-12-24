@@ -1,4 +1,2 @@
 # Don't track content of these folders
-venv/
-.DS_Store
 ignoretest.txt
