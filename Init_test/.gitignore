@@ -1,4 +1,4 @@
 # Don't track content of these folders
 venv/
 .DS_Store
-gitignore.txt
+ignoretest.txt
